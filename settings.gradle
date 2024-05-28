@@ -1,1 +1,2 @@
-rootProject.name = 'permmanager'
+rootProject.name = 'operator-plugin'
+include("permissions-system")
