@@ -3,7 +3,7 @@ plugins {
 }
 
 group = "de.philippCMD"
-version = "1.20.1_1.0"
+version "1.0.0"
 
 allprojects {
     apply {
