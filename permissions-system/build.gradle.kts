@@ -4,7 +4,7 @@ plugins {
 
 bukkit {
     name = "PermissionsSystem"
-    main = "de.philippcmd.permissions-system.Main"
+    main = "de.philippcmd.permissions.Main"
     apiVersion = "1.20"
     version = rootProject.version as String
 
