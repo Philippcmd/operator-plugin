@@ -1,6 +1,6 @@
-package de.philippcmd.permissions;
+package de.philippcmd.core;
 
-import de.philippcmd.permissions.commands.PermissionCommand;
+import de.philippcmd.core.commands.PermissionCommand;
 import org.bukkit.permissions.PermissionAttachment;
 import org.bukkit.plugin.java.JavaPlugin;
 
