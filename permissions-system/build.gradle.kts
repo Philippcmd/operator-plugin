@@ -17,4 +17,9 @@ bukkit {
             permissionMessage = "You have no permission to run this command"
         }
     }
+    permissions {
+        register("permissions.manage") {
+            description = "allows players to use /permission"
+        }
+    }
 }
